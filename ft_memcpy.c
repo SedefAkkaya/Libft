@@ -26,3 +26,15 @@ void	*ft_memcpy(void *dst, const void *src, size_t n)
 	}
 	return (dst);
 }
+
+//ft_memcpy(nereye, neyi, ne kadar) kopyalamak istiyorsun.
+
+/*
+int main(int args, **argv)
+{
+	int arr1[] = {3, 4};
+	int arr2[] = {1, 2};
+	
+	ft_memcpy(arr1, arr2, 2 * sizeof(int));
+	printf("arr1 = %d, %d\narr2 = %d, %d\n", arr1[0], arr1[1], arr2[0], arr2[1]);
+}
