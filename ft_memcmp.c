@@ -42,6 +42,7 @@ int	main(int arg, **args)
 		printf("Arrays are the not same!");
 }
 */
+
 // strcmp --> (string comperson) --> stringleri karsilastirir.
 // memcmp --> (memory comperson)--> bellek bolgelerini karsilastirir.
 
