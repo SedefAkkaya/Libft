@@ -26,6 +26,7 @@ int	ft_memcmp(const void *dst, const void *src, size_t n)
 	return (0);
 }
 
+// calistigi kutuphane <string.h> tir.
 // isaret edilen 2 bellek bolgesinin de ayni olup olmadigini karsilastirir.
 // strcmp --> (string comperson) --> stringleri karsilastirir.
 // memcmp --> (memory comperson)--> bellek bolgelerini karsilastirir.
