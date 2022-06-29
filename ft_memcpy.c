@@ -38,3 +38,4 @@ int main(int args, **argv)
 	ft_memcpy(arr1, arr2, 2 * sizeof(int));
 	printf("arr1 = %d, %d\narr2 = %d, %d\n", arr1[0], arr1[1], arr2[0], arr2[1]);
 }
+*/
