@@ -38,3 +38,16 @@ void	*ft_memmove(void *dst, const void *src, size_t len)
 	}
 	return (dst);
 }
+
+/*
+int main()
+{
+	char *p = "hollaIamSakkkaya";
+	
+	ft_memove(a+4, a, 5); // 
+}
+*/
+
+if durumunda -> ust uste binme olmadigi zaman normal yazilir. Bir sıkıntı olmaz.
+
+else durumunda -> ust uste binme gibi bir durum soz konusu degildir.
